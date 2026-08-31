@@ -47,6 +47,6 @@ To explore and understand the fundamentals of User Interface (UI) and User Exper
 17)Stop the experiment.
 
 ## Output:
-[UI_UX_Experiment1_Lab_Report.pdf](https://github.com/user-attachments/files/30892080/UI_UX_Experiment1_Lab_Report.pdf)
+[Hands_on_UI_UX_Experiments_Report.pdf](https://github.com/user-attachments/files/31628420/Hands_on_UI_UX_Experiments_Report.pdf)
 ## Result:
 The fundamentals of User Interface (UI) and User Experience (UX) design were successfully explored and understood.
