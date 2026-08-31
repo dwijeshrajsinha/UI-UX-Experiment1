@@ -39,7 +39,9 @@ To explore and understand the fundamentals of User Interface (UI) and User Exper
 
 16)Summarize the findings, including:
    Key differences between UI and UX
+   
    Relationship between UI and UX
+   
    Role of design tools in improving interface quality and user experience
    
 17)Stop the experiment.
