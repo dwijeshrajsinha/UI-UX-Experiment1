@@ -1,8 +1,11 @@
-# UI-UX-Experiment1
+## UI-UX-Experiment1
+
+## NAME: DWIEJSH RAJ SINHA Y
+## REGISTER NO: 212225240038
 
 ## Aim:
-```
 To explore and understand the fundamentals of User Interface (UI) and User Experience (UX) design, differentiate between them using real-world examples, illustrate their interrelationship, and demonstrate the use of various UI/UX design tools for practical application.
+
 ## Algorithm:
 1)Start the experiment.
 2)Study the fundamentals of User Interface (UI) and User Experience (UX), including visual design, layout, color, typography, usability, accessibility, and user flow.
@@ -24,7 +27,7 @@ To explore and understand the fundamentals of User Interface (UI) and User Exper
    Relationship between UI and UX
    Role of design tools in improving interface quality and user experience
 17)Stop the experiment.
-```
+
 
 ## Output:
 [UI_UX_Experiment1_Lab_Report.pdf](https://github.com/user-attachments/files/30892080/UI_UX_Experiment1_Lab_Report.pdf)
